@@ -14,7 +14,7 @@ let state; //undefined: VARIABLE is defined but VALUE isnt assigned
 //number => 2 to power 53
 //biginit
 //string => "----"
-//boolean => true/false
+//boolean => true/fal se
 //null => standalone value(empty value) / datatype object
 //undefined => VARIABLE is defined but VALUE isnt assigned / datatype undefined
 //symbol => unique
